@@ -1,4 +1,3 @@
-# car-rental-request-automation-servicenow
 # Car Rental Request Automation in ServiceNow
 
 ## Project Overview
